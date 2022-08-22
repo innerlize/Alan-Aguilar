@@ -7,7 +7,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 $('a').attr('draggable', 'false')
 
-$(".link, .btn .sec, .backTop").on("click", function(e) {      
+$(".link, .sec, .backTop").on("click", function(e) {      
     e.preventDefault();
     $(window).scrollTop($($(this).attr('href')).offset().top);
 });
