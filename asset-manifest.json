@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tiltedveggie/Alan-Aguilar/static/css/main.ed67392d.css",
-    "main.js": "/tiltedveggie/Alan-Aguilar/static/js/main.d223887d.js",
-    "static/media/alan-emo-color.jpg": "/tiltedveggie/Alan-Aguilar/static/media/alan-emo-color.524b0969e90c6523787f.jpg",
-    "index.html": "/tiltedveggie/Alan-Aguilar/index.html",
-    "main.ed67392d.css.map": "/tiltedveggie/Alan-Aguilar/static/css/main.ed67392d.css.map",
-    "main.d223887d.js.map": "/tiltedveggie/Alan-Aguilar/static/js/main.d223887d.js.map"
+    "main.css": "/Alan-Aguilar/static/css/main.b1a8a04b.css",
+    "main.js": "/Alan-Aguilar/static/js/main.d223887d.js",
+    "static/media/alan-emo-color.jpg": "/Alan-Aguilar/static/media/alan-emo-color.524b0969e90c6523787f.jpg",
+    "index.html": "/Alan-Aguilar/index.html",
+    "main.b1a8a04b.css.map": "/Alan-Aguilar/static/css/main.b1a8a04b.css.map",
+    "main.d223887d.js.map": "/Alan-Aguilar/static/js/main.d223887d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed67392d.css",
+    "static/css/main.b1a8a04b.css",
     "static/js/main.d223887d.js"
   ]
 }
