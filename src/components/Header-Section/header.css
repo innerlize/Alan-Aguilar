@@ -1,0 +1,368 @@
+.header-container {
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(-100px);
+  backdrop-filter: blur(20px);
+  animation: fade-in 1s ease 1 forwards;
+}
+
+.header-container .title-container {
+  position: absolute;
+  top: 30px;
+}
+
+.header-container .title-container h1 {
+  display: flex;
+  flex-direction: column;
+  font-size: 28px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.header-container .title-container h1 p {
+  font-size: 15px;
+}
+
+.header-container .title-container h1 p span {
+  color: var(--color-pri);
+  font-size: 20px;
+}
+
+.header-container .title-container h2 {
+  font-size: 16px;
+  font-weight: 100;
+  color: var(--color-pri);
+  letter-spacing: 1px;
+  border: none;
+}
+
+.header-container .title-container h2:after {
+  display: none;
+}
+
+.header-container .logo {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  transform: translate(-200px);
+  opacity: 0;
+  margin-top: 50px;
+  border-radius: 50%;
+  border: 3px solid rgb(108, 161, 197);
+  background: url(../images/alan-emo-color.jpg);
+  background-size: cover;
+  background-position: center;
+  animation: fade-in 1s ease 1 0.5s forwards;
+}
+
+.scroll-down {
+  transform: rotate(90deg) translateX(-85px);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  gap: 10px;
+}
+
+.scroll-down hr {
+  background-color: blue;
+  width: 20px;
+}
+
+.scroll-down h5 {
+  font-size: 18px;
+  text-transform: capitalize;
+  font-weight: 100;
+}
+
+.scroll-down .scroll {
+  transform: rotate(-90deg);
+  font-size: 20px;
+}
+
+@keyframes fade-in {
+  to {
+    transform: translate(0);
+    opacity: 1;
+  }
+}
+
+@media (min-width: 1920px) {
+
+  .header-container .title-container {
+    top: 50px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 35px !important;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 20px !important;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 20px !important;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 21px !important;
+  }
+
+  .header-container .logo {
+    width: 420px !important;
+    height: 420px !important;
+  }
+
+  .scroll-down {
+    bottom: 50px !important;
+    font-size: 27px !important;
+  }
+
+  .scroll-down hr {
+    width: 27px !important;
+  }
+
+  .scroll-down h5 {
+    font-size: 25px !important;
+  }
+
+  .scroll-down .scroll {
+    font-size: 27px !important;
+  }
+}
+
+@media (min-width: 1440px) {
+
+  .header-container .title-container {
+    top: 50px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 35px;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 20px;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 20px;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 21px;
+  }
+
+  .header-container .logo {
+    height: 350px;
+    width: 350px;
+  }
+
+  .scroll-down {
+    bottom: 10px;
+    font-size: 20px;
+  }
+
+  .scroll-down hr {
+    width: 20px;
+  }
+
+  .scroll-down h5 {
+    font-size: 18px;
+  }
+
+  .scroll-down .scroll {
+    font-size: 20px;
+  }
+}
+
+@media (min-height: 1000px) {
+
+  .header-container .title-container {
+    top: 80px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 38px;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 23px;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 23px;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 24px;
+  }
+
+  .header-container .logo {
+    height: 370px;
+    width: 370px;
+  }
+
+  .scroll-down {
+    bottom: 13px;
+    font-size: 23px;
+  }
+
+  .scroll-down hr {
+    width: 23px;
+  }
+
+  .scroll-down h5 {
+    font-size: 21px;
+  }
+
+  .scroll-down .scroll {
+    font-size: 23px;
+  }
+}
+
+
+@media (max-width: 820px) {
+
+  .header-container .title-container {
+    top: 50px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 45px;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 30px;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 30px;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 31px;
+  }
+
+  .header-container .logo {
+    height: 400px;
+    width: 400px;
+  }
+
+  .scroll-down {
+    right: -70px;
+    bottom: 180px;
+    font-size: 30px;
+  }
+
+  .scroll-down hr {
+    width: 30px;
+  }
+
+  .scroll-down h5 {
+    font-size: 28px;
+  }
+
+  .scroll-down .scroll {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+
+  .header-container .logo {
+    height: 280px;
+    width: 280px;
+  }
+
+  .header-container .title-container {
+    top: 50px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 35px;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 20px;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 20px;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 21px;
+  }
+
+  .scroll-down {
+    right: -80px;
+    bottom: 130px;
+  }
+
+  .scroll-down hr {
+    width: 25px;
+  }
+
+  .scroll-down h5 {
+    font-size: 23px;
+  }
+
+  .scroll-down .scroll {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 420px) {
+
+  .header-container .logo {
+    height: 250px;
+    width: 250px;
+  }
+
+  .header-container .title-container {
+    top: 50px;
+  }
+
+  .header-container .title-container h1 {
+    font-size: 32px;
+  }
+
+  .header-container .title-container h1 p {
+    font-size: 17px;
+  }
+
+  .header-container .title-container h1 p span {
+    font-size: 17px;
+  }
+
+  .header-container .title-container h2 {
+    font-size: 18px;
+  }
+
+  .scroll-down {
+    right: -60px;
+    bottom: 90px;
+  }
+
+  .scroll-down hr {
+    width: 18px;
+  }
+
+  .scroll-down h5 {
+    font-size: 16px;
+  }
+
+  .scroll-down .scroll {
+    font-size: 18px;
+  }
+}

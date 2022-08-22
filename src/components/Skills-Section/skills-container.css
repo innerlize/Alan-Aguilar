@@ -1,0 +1,102 @@
+.skills-container {
+  backdrop-filter: blur(20px);
+  position: relative;
+  min-height: 100vh;
+  margin-top: 150px;
+  padding-top: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills-container h2 {
+  position: relative;
+  display: inline-block;
+  font-size: 25px;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.skills-container .skills-boxes {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+}
+
+@media (min-width: 1920px) {
+  .skills-container h2 {
+    font-size: 45px !important;
+  }
+}
+
+@media (min-width: 1440px) {
+  .skills-container h2 {
+    font-size: 35px;
+  }
+}
+
+@media (min-height: 1000px) {
+  .skills-container h2 {
+    font-size: 38px;
+  }
+}
+
+@media (max-width: 820px) {
+  .skills-container {
+    min-height: 80vh;
+    margin-top: 150px;
+    padding: 50px 0 0 0;
+  }
+
+  .skills-container h2 {
+    font-size: 55px;
+    margin-bottom: 40px;
+  }
+
+  .skills-container .skills-boxes {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .skills-container {
+    min-height: 80vh;
+    margin-top: 100px;
+    padding: 20px;
+  }
+
+  .skills-container h2 {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 420px) {
+  .skills-container {
+    min-height: 80vh;
+    margin-top: 70px;
+    padding-top: 40px;
+  }
+
+  .skills-container h2 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 375px) {
+  .skills-container {
+    min-height: 80vh;
+    margin-top: 150px;
+    padding-top: 50px;
+  }
+
+  .skills-container .skills-boxes {
+    width: 100%;
+    margin-top: 20px;
+    padding: 0 10px;
+  }
+}
