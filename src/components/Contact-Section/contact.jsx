@@ -31,7 +31,7 @@ function Contact() {
         </a>
 
         <a
-          href="mailto: tiltedveggie@outlook.kr"
+          href="mailto: alan.dev@outlook.kr"
           className="contact mail"
         >
           <AiOutlineMail className="icon" />
