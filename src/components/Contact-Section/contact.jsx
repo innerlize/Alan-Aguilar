@@ -36,7 +36,7 @@ function Contact() {
         >
           <AiOutlineMail className="icon" />
           <h4>
-            Email <span>tiltedveggie@outlook.kr</span>
+            Email <span>alan.dev@outlook.kr</span>
           </h4>
         </a>
       </div>
