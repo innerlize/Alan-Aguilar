@@ -47,6 +47,6 @@ To be able to do this project I used tools such as:
 
 ## "May I see your project?"
 
-Sure!a
+Sure!
 
 Here's the link: https://tiltedveggie.github.io/Alan-Aguilar/
