@@ -53,7 +53,7 @@ To be able to do this project I used tools such as:
 
 <br>
 
-## "May I see your project?"a
+## "May I see your project?"
 
 Sure!
 
