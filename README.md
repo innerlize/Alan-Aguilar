@@ -33,6 +33,10 @@ To be able to do this project I used tools such as:
       </td>
     </tr>
     <tr align='center'>
+      <td>Git</td>
+      <td> - </td>
+    </tr>
+    <tr align='center'>
       <td>npm</td>
       <td> - </td>
     </tr>
