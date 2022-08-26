@@ -3,15 +3,15 @@
 This is my portfolio, in which you can find my works and projects carried out <br>
 throughout my life in the programming work area as well as read more about me.
 
+<br>
 
-
-## "How did you made this project?"
+## "How did you do this project?"
 
 To be able to do this project I used tools such as:
 
 <table align='center'>
   <thead>
-    <th>Technology</th>
+    <th>Technology/Software</th>
     <th>Framework/Library</th>
   </thead>
   
@@ -32,8 +32,18 @@ To be able to do this project I used tools such as:
         React
       </td>
     </tr>
+    <tr align='center'>
+      <td>Figma</td>
+      <td> - </td>
+    </tr>
+    <tr align='center'>
+      <td>Illustrator</td>
+      <td> - </td>
+    </tr>
   </tbody>
 </table>
+
+<br>
 
 ## "May I see your project?"
 
