@@ -8,7 +8,7 @@ function About() {
       <h2>About Me</h2>
 
       <p>
-        I'm Alan Aguilar, a 21 year old Frontend Developer, Musician and Minimalist
+        I'm Alan Aguilar, a Frontend Developer, Musician and Minimalist
         Graphic Designer based in Santa Fe, Argentina.
 
         <br />
