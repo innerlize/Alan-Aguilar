@@ -31,12 +31,12 @@ function Contact() {
         </a>
 
         <a
-          href="mailto: tiltedveggie@outlook.kr"
+          href="mailto: alan.dev@outlook.kr"
           className="contact mail"
         >
           <AiOutlineMail className="icon" />
           <h4>
-            Email <span>tiltedveggie@outlook.kr</span>
+            Email <span>alan.dev@outlook.kr</span>
           </h4>
         </a>
       </div>

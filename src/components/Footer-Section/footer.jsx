@@ -18,7 +18,7 @@ function Footer() {
         </a>
       </h3>
       <div className="social-links">
-        <a href="#">
+        <a href="https://www.instagram.com/tiltedveggie/">
           <BsInstagram className="social" />
         </a>
 
@@ -27,7 +27,7 @@ function Footer() {
           <FaFacebookF className="social" />
         </a>
 
-        <a href="#">
+        <a href="https://github.com/tiltedveggie">
           <TiSocialGithub className="social" />
         </a>
       </div>

@@ -1,101 +1,101 @@
 const skills = [
 	{
-		img: "./images/html5.svg",
+		img: "./media/skills-icons/html5.svg",
 		name: 'HTML'
 	},
 
 	{
-		img: "./images/css3.svg",
+		img: "./media/skills-icons/css3.svg",
 		name: 'CSS'
 	},
 	
 	{
-		img: "./images/javascript.svg",
+		img: "./media/skills-icons/javascript.svg",
 		name: 'JavaScript'
 	},
 	
 	{
-		img: "./images/emmet.svg",
+		img: "./media/skills-icons/emmet.svg",
 		name: 'Emmet'
 	},
 	
 	{
-		img: "./images/bootstrap.svg",
+		img: "./media/skills-icons/bootstrap.svg",
 		name: 'Bootstrap'
 	},
 	
 	{
-		img: "./images/tailwind.svg",
+		img: "./media/skills-icons/tailwind.svg",
 		name: 'Tailwind'
 	},
 	
 	{
-		img: "./images/sass.svg",
+		img: "./media/skills-icons/sass.svg",
 		name: 'Sass'
 	},
 	
 	{
-		img: "./images/jquery.svg",
+		img: "./media/skills-icons/jquery.svg",
 		name: 'jQuery'
 	},
 	
 	{
-		img: "./images/react.svg",
+		img: "./media/skills-icons/react.svg",
 		name: 'React'
 	},
 	
 	{
-		img: "./images/ruby.svg",
+		img: "./media/skills-icons/ruby.svg",
 		name: 'Ruby'
 	},
 	
 	{
-		img: "./images/php.svg",
+		img: "./media/skills-icons/php.svg",
 		name: 'PHP'
 	},
 	
 	{
-		img: "./images/mysql.svg",
+		img: "./media/skills-icons/mysql.svg",
 		name: 'MySQL'
 	},
 	
 	{
-		img: "./images/firebase.svg",
+		img: "./media/skills-icons/firebase.svg",
 		name: 'Firebase'
 	},
 	
 	{
-		img: "./images/git.svg",
+		img: "./media/skills-icons/git.svg",
 		name: 'Git'
 	},
 	
 	{
-		img: "./images/github.svg",
+		img: "./media/skills-icons/github.svg",
 		name: 'GitHub'
 	},
 	
 	{
-		img: "./images/scrum.svg",
+		img: "./media/skills-icons/scrum.svg",
 		name: 'Scrum'
 	},
 	
 	{
-		img: "./images/figma.svg",
+		img: "./media/skills-icons/figma.svg",
 		name: 'Figma'
 	},
 	
 	{
-		img: "./images/photoshop.svg",
+		img: "./media/skills-icons/photoshop.svg",
 		name: 'Adobe Photoshop'
 	},
 	
 	{
-		img: "./images/illustrator.svg",
+		img: "./media/skills-icons/illustrator.svg",
 		name: 'Adobe Illustrator'
 	},
 	
 	{
-		img: "./images/lightroom.svg",
+		img: "./media/skills-icons/lightroom.svg",
 		name: 'Adobe Lightroom'
 	},
 ]
