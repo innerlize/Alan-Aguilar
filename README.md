@@ -1,7 +1,7 @@
 ## Introduction
 
 This is my portfolio, in which you can find my works and projects carried out <br>
-throughout my life in the programming work area as well as read more about me.
+throughout my life in the programming work area as well as read more about me.a
 
 <br>
 
