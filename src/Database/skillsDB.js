@@ -41,22 +41,12 @@ const skills = [
 	
 	{
 		img: "./media/skills-icons/react.svg",
-		name: 'React'
+		name: 'React.js'
 	},
 	
 	{
-		img: "./media/skills-icons/ruby.svg",
-		name: 'Ruby'
-	},
-	
-	{
-		img: "./media/skills-icons/php.svg",
-		name: 'PHP'
-	},
-	
-	{
-		img: "./media/skills-icons/mysql.svg",
-		name: 'MySQL'
+		img: "./media/skills-icons/next.svg",
+		name: 'Next.js'
 	},
 	
 	{
@@ -70,8 +60,18 @@ const skills = [
 	},
 	
 	{
+		img: "./media/skills-icons/cypress.svg",
+		name: 'Cypress'
+	},
+	
+	{
 		img: "./media/skills-icons/github.svg",
 		name: 'GitHub'
+	},
+	
+	{
+		img: "./media/skills-icons/vercel.svg",
+		name: 'Vercel'
 	},
 	
 	{
@@ -82,6 +82,11 @@ const skills = [
 	{
 		img: "./media/skills-icons/figma.svg",
 		name: 'Figma'
+	},
+	
+	{
+		img: "./media/skills-icons/spline.svg",
+		name: 'Spline'
 	},
 	
 	{

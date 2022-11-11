@@ -5,7 +5,7 @@ import App from './App.js';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-$('a').attr('draggable', 'false')
+$('a').attr('draggable', 'false');
 
 $(".link, .sec, .backTop").on("click", function(e) {      
     e.preventDefault();
