@@ -13,31 +13,7 @@ const works = [
 		tools: "HTML, SASS, JavaScript, Figma, Photoshop",
 		description: "In this project I was responsible for developing a personal page for the Registered Nurse Practitioner Eliana Moura, a recognized worker from our city.",
 		link: "https://tiltedveggie.github.io/Eliana-Moura/"
-	},
-
-	{
-		img: "./media/projects-thumbnails/Minima-Commerce.jpg",
-		name: "Minima Commerce",
-		tools: "CSS, Bootstrap, React, Firebase, Git, Figma",
-		description: "Minima Commerce was one of my most biggest personal projects until now. In this project I developed all the logic for a full responsive and efficient SPA e-commerce web site.",
-		link: "https://tiltedveggie.github.io/Minima-Commerce/"
-	},
-
-	{
-		img: "./media/projects-thumbnails/Password-Generator.jpg",
-		name: "Password Generator",
-		tools: "HTML, CSS, JavaScript, Figma",
-		description: "Here I developed a password generator app for all those people who are very concerned about the security of their accounts and have trouble creating a good password.",
-		link: "https://tiltedveggie.github.io/Password-Generator/"
-	},
-
-	{
-		img: "./media/projects-thumbnails/Todo-List.jpg",
-		name: "Todo List",
-		tools: "Tailwind, React, Firebase, Figma",
-		description: "I made this app to let the users add their own tasks in a list to remember what they have to do in the future. Also, they can later mark them as completed, in case they actualy did it, of course...",
-		link: "https://tiltedveggie.github.io/Todo-List-App/"
-	},
+	}
 ]
 
 export default works;
