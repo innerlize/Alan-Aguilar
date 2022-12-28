@@ -1,5 +1,5 @@
 const projects = [
-    {
+	{
 		img: "./media/projects-thumbnails/Minima-Commerce.jpg",
 		name: "Minima Commerce",
 		tools: "CSS, Bootstrap, React, Firebase, Git, Figma",
@@ -30,7 +30,7 @@ const projects = [
 	{
 		img: "./media/projects-thumbnails/React-Calculator.jpg",
 		name: "React Calculator",
-		tools: "React, Cypress",
+		tools: "React, Cypress, Jest, RTL",
 		link: "https://react-calculator-tiltedveggie.vercel.app/"
 	},
 

@@ -4,8 +4,8 @@ const works = [
 		img: "./media/projects-thumbnails/CofCof-Studios.jpg",
 		name: "CofCof Studios",
 		tools: "SASS, React.js, Next.js, Axios, Firebase, API REST, Swiper.js, Git, Figma",
-		description: "I am currently developing the Frontend part of a portfolio for CofCof Studios, a 3D design and rendering company from Buenos Aires, Argentina.",
-		link: "https://www.figma.com/proto/6VNW5wyMLdr6qwBadYcnu7/CofCof-Studios?page-id=0%3A1&node-id=86%3A17&viewport=2787%2C-1538%2C0.85&scaling=scale-down&starting-point-node-id=86%3A17"
+		description: "I worked developing the Frontend part of a portfolio for CofCof Studios, a 3D design and rendering company from Buenos Aires, Argentina.",
+		link: "https://cofcofstudios.com/"
 	},
 
 	{
