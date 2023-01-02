@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Alan-Aguilar/static/css/main.25371cc4.css",
-    "main.js": "/Alan-Aguilar/static/js/main.95ca664b.js",
+    "main.js": "/Alan-Aguilar/static/js/main.22ec192a.js",
     "static/media/alan-emo-color.jpg": "/Alan-Aguilar/static/media/alan-emo-color.524b0969e90c6523787f.jpg",
     "index.html": "/Alan-Aguilar/index.html",
     "main.25371cc4.css.map": "/Alan-Aguilar/static/css/main.25371cc4.css.map",
-    "main.95ca664b.js.map": "/Alan-Aguilar/static/js/main.95ca664b.js.map"
+    "main.22ec192a.js.map": "/Alan-Aguilar/static/js/main.22ec192a.js.map"
   },
   "entrypoints": [
     "static/css/main.25371cc4.css",
-    "static/js/main.95ca664b.js"
+    "static/js/main.22ec192a.js"
   ]
 }
