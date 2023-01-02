@@ -61,7 +61,7 @@ const skills = [
 
 	{
 		img: "./media/skills-icons/jest.svg",
-		name: 'Cypress'
+		name: 'Jest'
 	},
 
 	{
