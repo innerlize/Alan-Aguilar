@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Alan-Aguilar/static/css/main.25371cc4.css",
+    "main.css": "/Alan-Aguilar/static/css/main.68661940.css",
     "main.js": "/Alan-Aguilar/static/js/main.70adf12f.js",
-    "static/media/alan-emo-color.jpg": "/Alan-Aguilar/static/media/alan-emo-color.524b0969e90c6523787f.jpg",
+    "static/media/alan-emprendedor.jpg": "/Alan-Aguilar/static/media/alan-emprendedor.2890383a2a73b91a44e1.jpg",
     "index.html": "/Alan-Aguilar/index.html",
-    "main.25371cc4.css.map": "/Alan-Aguilar/static/css/main.25371cc4.css.map",
+    "main.68661940.css.map": "/Alan-Aguilar/static/css/main.68661940.css.map",
     "main.70adf12f.js.map": "/Alan-Aguilar/static/js/main.70adf12f.js.map"
   },
   "entrypoints": [
-    "static/css/main.25371cc4.css",
+    "static/css/main.68661940.css",
     "static/js/main.70adf12f.js"
   ]
 }
