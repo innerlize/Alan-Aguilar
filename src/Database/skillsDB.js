@@ -66,7 +66,7 @@ const skills = [
 
 	{
 		img: "./media/skills-icons/rtl.svg",
-		name: 'React Testing Library'
+		name: 'Testing Library'
 	},
 
 	{
