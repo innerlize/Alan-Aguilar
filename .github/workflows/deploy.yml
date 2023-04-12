@@ -2,7 +2,7 @@ name: Build and Deploy a React App
 on:
   push:
     branches:
-      - "main"
+      - 'main'
 
 permissions:
   contents: write
@@ -27,3 +27,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
           folder: build
+
+      - name: Run ESLint
+        run: npm run eslint
