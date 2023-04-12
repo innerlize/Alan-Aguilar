@@ -1,118 +1,143 @@
 const skills = [
 	{
-		img: "./media/skills-icons/html5.svg",
+		ico: 'html5.svg',
 		name: 'HTML'
 	},
 
 	{
-		img: "./media/skills-icons/css.svg",
+		ico: 'css.svg',
 		name: 'CSS'
 	},
 
 	{
-		img: "./media/skills-icons/javascript.svg",
+		ico: 'javascript.svg',
 		name: 'JavaScript'
 	},
 
 	{
-		img: "./media/skills-icons/emmet.svg",
+		ico: 'emmet.svg',
 		name: 'Emmet'
 	},
 
 	{
-		img: "./media/skills-icons/bootstrap.svg",
+		ico: 'bootstrap.svg',
 		name: 'Bootstrap'
 	},
 
 	{
-		img: "./media/skills-icons/tailwind.svg",
+		ico: 'tailwind.svg',
 		name: 'Tailwind'
 	},
 
 	{
-		img: "./media/skills-icons/sass.svg",
+		ico: 'sass.svg',
 		name: 'Sass'
 	},
 
 	{
-		img: "./media/skills-icons/jquery.svg",
+		ico: 'jquery.svg',
 		name: 'jQuery'
 	},
 
 	{
-		img: "./media/skills-icons/react.svg",
+		ico: 'react.svg',
 		name: 'React.js'
 	},
 
 	{
-		img: "./media/skills-icons/next.svg",
+		ico: 'next.svg',
 		name: 'Next.js'
 	},
 
 	{
-		img: "./media/skills-icons/firebase.svg",
+		ico: 'firebase.svg',
 		name: 'Firebase'
 	},
 
 	{
-		img: "./media/skills-icons/git.svg",
+		ico: 'git.svg',
 		name: 'Git'
 	},
 
 	{
-		img: "./media/skills-icons/jest.svg",
+		ico: 'jest.svg',
 		name: 'Jest'
 	},
 
 	{
-		img: "./media/skills-icons/rtl.svg",
+		ico: 'rtl.svg',
 		name: 'Testing Library'
 	},
 
 	{
-		img: "./media/skills-icons/cypress.svg",
+		ico: 'cypress.svg',
 		name: 'Cypress'
 	},
 
 	{
-		img: "./media/skills-icons/github.svg",
+		ico: 'github.svg',
 		name: 'GitHub'
 	},
 
 	{
-		img: "./media/skills-icons/vercel.svg",
+		ico: 'ghactions.svg',
+		name: 'GitHub Actions'
+	},
+
+	{
+		ico: 'vercel.svg',
 		name: 'Vercel'
 	},
 
 	{
-		img: "./media/skills-icons/scrum.svg",
+		ico: 'prettier.svg',
+		name: 'Prettier'
+	},
+
+	{
+		ico: 'eslint.svg',
+		name: 'ESLint'
+	},
+
+	{
+		ico: 'husky.svg',
+		name: 'Husky'
+	},
+
+	{
+		ico: 'scrum.svg',
 		name: 'Scrum'
 	},
 
 	{
-		img: "./media/skills-icons/figma.svg",
+		ico: 'solid.svg',
+		name: 'S. O. L. I. D.'
+	},
+
+	{
+		ico: 'figma.svg',
 		name: 'Figma'
 	},
 
 	{
-		img: "./media/skills-icons/spline.svg",
+		ico: 'spline.svg',
 		name: 'Spline'
 	},
 
 	{
-		img: "./media/skills-icons/photoshop.svg",
+		ico: 'photoshop.svg',
 		name: 'Adobe Photoshop'
 	},
 
 	{
-		img: "./media/skills-icons/illustrator.svg",
+		ico: 'illustrator.svg',
 		name: 'Adobe Illustrator'
 	},
 
 	{
-		img: "./media/skills-icons/lightroom.svg",
+		ico: 'lightroom.svg',
 		name: 'Adobe Lightroom'
-	},
-]
+	}
+];
 
 export default skills;
