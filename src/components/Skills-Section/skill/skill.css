@@ -1,138 +1,132 @@
 .skill {
-  height: 210px;
-  width: 20%;
-  background-color: rgba(0, 0, 0, 0.322);
-  border-radius: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 0 5px;
-  margin-top: 30px;
-  user-select: none;
-  backdrop-filter: blur(20px);
-  transition: background 0.3s ease, transform 0.2s ease;
+	height: 210px;
+	width: 20%;
+	background-color: rgba(0, 0, 0, 0.322);
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0 5px;
+	margin-top: 30px;
+	user-select: none;
+	backdrop-filter: blur(20px);
+	transition: background 0.3s ease, transform 0.2s ease;
 }
 
 .skill:hover {
-  background-color: rgba(255, 255, 255, 0.096);
-  transform: scale(1.03);
+	background-color: rgba(255, 255, 255, 0.096);
+	transform: scale(1.03);
 }
 
 .skill .logo {
-  width: 100px;
-  height: 100px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .skill h4 {
-  position: relative;
-  margin-top: 15px;
-  font-size: 20px;
-  font-weight: 400;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  padding: 0 20px;
+	position: relative;
+	margin-top: 15px;
+	font-size: 20px;
+	font-weight: 400;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding: 0 20px;
 }
 
 @media (min-width: 1920px) {
+	.skill {
+		height: 280px !important;
+		width: 18% !important;
+	}
 
-  .skill {
-    height: 280px !important;
-    width: 18% !important;
-  }
+	.skill .logo {
+		width: 120px !important;
+		height: 120px !important;
+	}
 
-  .skill .logo {
-    width: 120px !important;
-    height: 120px !important;
-  }
-
-  .skill h4 {
-    margin-top: 20px !important;
-    font-size: 30px !important;
-  }
+	.skill h4 {
+		margin-top: 20px !important;
+		font-size: 30px !important;
+	}
 }
 
 @media (min-height: 1000px) {
+	.skill {
+		height: 250px;
+		width: 23%;
+	}
 
-  .skill {
-    height: 250px;
-    width: 23%;
-  }
+	.skill .logo {
+		width: 135px;
+		height: 135px;
+	}
 
-  .skill .logo {
-    width: 135px;
-    height: 135px;
-  }
-
-  .skill h4 {
-    margin-top: 20px;
-    font-size: 32px;
-  }
+	.skill h4 {
+		margin-top: 20px;
+		font-size: 32px;
+	}
 }
 
 @media (max-width: 820px) {
+	.skill {
+		height: 350px;
+		width: 47%;
+	}
 
-  .skill {
-    height: 350px;
-    width: 47%;
-  }
+	.skill .logo {
+		width: 130px;
+		height: 130px;
+	}
 
-  .skill .logo {
-    width: 130px;
-    height: 130px;
-  }
-
-  .skill h4 {
-    margin-top: 25px;
-    font-size: 35px;
-  }
+	.skill h4 {
+		margin-top: 25px;
+		font-size: 35px;
+	}
 }
 
 @media (max-width: 500px) {
+	.skill {
+		height: 220px;
+		width: 48%;
+	}
+	.skill .logo {
+		width: 100px;
+		height: 100px;
+	}
 
-  .skill {
-    height: 220px;
-    width: 48%;
-  }
-  .skill .logo {
-    width: 100px;
-    height: 100px;
-  }
-
-  .skill h4 {
-    margin-top: 20px;
-    font-size: 22px;
-  }
+	.skill h4 {
+		margin-top: 20px;
+		font-size: 22px;
+	}
 }
 
 @media (max-width: 420px) {
-
-  .skill {
-    height: 210px;
-    width: 46%;
-  }
-  .skill .logo {
-    width: 90px;
-    height: 90px;
-  }
+	.skill {
+		height: 210px;
+		width: 46%;
+	}
+	.skill .logo {
+		width: 90px;
+		height: 90px;
+	}
 }
 
 @media (max-width: 375px) {
+	.skill {
+		height: 200px;
+		width: 45%;
+	}
+	.skill .logo {
+		width: 90px;
+		height: 90px;
+	}
 
-  .skill {
-    height: 200px;
-    width: 45%;
-  }
-  .skill .logo {
-    width: 90px;
-    height: 90px;
-  }
-
-  .skill h4 {
-    font-size: 20px;
-  }
+	.skill h4 {
+		font-size: 20px;
+	}
 }
