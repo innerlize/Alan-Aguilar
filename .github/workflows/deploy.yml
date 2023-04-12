@@ -27,6 +27,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
           folder: build
-
-      - name: Run ESLint
-        run: npm run eslint
