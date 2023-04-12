@@ -1,16 +1,16 @@
 import React from 'react';
 import './skill.css';
 
-const Skill = ({ skillInfo }) => {
-
-  return (
-
-    <div className="skill">
-      <div className="logo" style={{ backgroundImage: `url(${skillInfo.img})` }}></div>
-      <h4>{ skillInfo.name }</h4>
-    </div>
-
-  )
-}
+const Skill = ({ skill }) => {
+	return (
+		<div className='skill'>
+			<img
+				className='logo'
+				src={require(`../../../assets/skills-icons/${skill.ico}`)}
+			/>
+			<h4>{skill.name}</h4>
+		</div>
+	);
+};
 
 export default Skill;
