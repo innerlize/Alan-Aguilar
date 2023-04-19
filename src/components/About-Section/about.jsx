@@ -9,7 +9,7 @@ function About() {
 
 			<p>
 				I&apos;m Alan Aguilar, a Frontend Developer, Musician and Minimalist
-				Graphic Designer based in Santa Fe, Argentina.
+				Graphic Designer based in Argentina.
 				<br />
 				<br />
 				I started venturing into the world of programming when I was 18 years
