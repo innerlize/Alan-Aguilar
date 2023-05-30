@@ -1,5 +1,5 @@
 import React from 'react';
-import projectsDB from '../../../database/projectsDB.js';
+import projectsDB from '../../../databases/projectsDB.js';
 import Project from './project/project.jsx';
 import './personal-projects.css';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import worksDB from '../../database/worksDB.js';
+import worksDB from '../../databases/worksDB.js';
 import Work from './work/work.jsx';
 import PersonalProjects from './personal-projects/personal-projects.jsx';
 import './works-container.css';
