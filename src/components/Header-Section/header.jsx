@@ -12,7 +12,7 @@ function Header() {
 					</p>
 					Alan
 				</h1>
-				<h2>Front-End Web Developer</h2>
+				<h2>Full-Stack Web Developer</h2>
 			</div>
 
 			<div className='logo'></div>
