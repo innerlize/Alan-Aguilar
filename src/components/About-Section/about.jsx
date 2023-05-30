@@ -22,9 +22,10 @@ function About() {
 				for simply entertainment, to him everything is useful.
 				<br />
 				<br />
-				He likes all kind of animals and loves to help them in anything.
-				He&apos;s not a big fan of cats but... yeah, they are really cute too,
-				and always likes to take some time with their neighbours&apos; cats.
+				He is a great animal lover, and always tries to help them in any way he
+				can. He&apos;s not a big fan of cats but... yeah, they&apos;re really
+				cute too, and he always likes to hang out with his neighbours&apos;
+				cats.
 			</p>
 
 			<Buttons />
