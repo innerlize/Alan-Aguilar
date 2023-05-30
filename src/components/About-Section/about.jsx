@@ -8,20 +8,23 @@ function About() {
 			<h2>About Me</h2>
 
 			<p>
-				I&apos;m Alan Aguilar, a Frontend Developer, Musician and Minimalist
-				Graphic Designer based in Argentina.
+				Alan is a programmer, musician and minimalist graphic designer based in
+				Argentina.
 				<br />
 				<br />
-				I started venturing into the world of programming when I was 18 years
-				old. I was always interested in absolutely all kinds of technology, and
-				programming was something I didn&apos;t dare to fully explore... Until I
-				gave it a chance, and to this day it has been one of my best decisions
-				throughout of my life.
+				He loves all kind of technology, artifacts and languages. In his free
+				time, he enjoys creating different types of apps for desktop and mobile
+				devices, playing his favorite instruments, telling bad jokes, and of
+				course, playing video games.
 				<br />
-				<br />I became so passionate about the profession that little by little
-				I began to create several personal projects. And who would say... What
-				used to be a hobby/entertainment soon became my profession and my
-				current job.
+				<br />
+				Always looking for something new to learn, whether it&apos;s for work or
+				for simply entertainment, to him everything is useful.
+				<br />
+				<br />
+				He likes all kind of animals and loves to help them in anything.
+				He&apos;s not a big fan of cats but... yeah, they are really cute too,
+				and always likes to take some time with their neighbours&apos; cats.
 			</p>
 
 			<Buttons />
