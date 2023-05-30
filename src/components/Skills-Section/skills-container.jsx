@@ -1,5 +1,5 @@
 import React from 'react';
-import skills from '../../database/skillsDB.js';
+import skills from '../../databases/skillsDB.js';
 import Skill from './skill/skill.jsx';
 import './skills-container.css';
 
