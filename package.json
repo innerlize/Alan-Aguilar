@@ -25,19 +25,7 @@
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"eslint": "eslint .",
-		"prepare": "husky install",
-		"lint": "eslint \"src/**/*.{js,jsx,ts,tsx,json}\" --fix",
-		"format": "prettier \"src/**/*.{js,jsx,ts,tsx,json}\" --write"
-	},
-	"lint-staged": {
-		"src/**/*.{js,jsx,ts,tsx,json}": [
-			"eslint --fix",
-			"prettier --write"
-		],
-		"./*.{js,ts,json}": [
-			"eslint --fix",
-			"prettier --write"
-		]
+		"prepare": "husky install"
 	},
 	"eslintConfig": {
 		"extends": [
