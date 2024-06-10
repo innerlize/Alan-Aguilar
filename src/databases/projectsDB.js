@@ -10,7 +10,7 @@ const projects = [
 		thumbnail: 'Minima-Commerce.jpg',
 		name: 'Minima Commerce',
 		tools: 'CSS, Bootstrap, React, Firebase, Git, Figma',
-		link: 'https://tiltedveggie.github.io/Minima-Commerce/'
+		link: 'https://innerlize.github.io/Minima-Commerce/'
 	},
 
 	{
@@ -24,14 +24,14 @@ const projects = [
 		thumbnail: 'Valorant-Agents.jpg',
 		name: 'Valorant Agents',
 		tools: 'React, Context, CSS, API REST, Testing, Figma',
-		link: 'https://tiltedveggie.github.io/Valorant-Agents/'
+		link: 'https://innerlize.github.io/Valorant-Agents/'
 	},
 
 	{
 		thumbnail: 'Password-Generator.jpg',
 		name: 'Password Generator',
 		tools: 'HTML, CSS, JavaScript, Figma',
-		link: 'https://tiltedveggie.github.io/Password-Generator/'
+		link: 'https://innerlize.github.io/Password-Generator/'
 	},
 
 	{
@@ -45,21 +45,21 @@ const projects = [
 		thumbnail: 'Todo-List.jpg',
 		name: 'Todo List',
 		tools: 'Tailwind, React, Firebase, Figma',
-		link: 'https://tiltedveggie.github.io/Todo-List-App/'
+		link: 'https://innerlize.github.io/Todo-List-App/'
 	},
 
 	{
 		thumbnail: 'React-Calculator.jpg',
 		name: 'React Calculator',
 		tools: 'React, Cypress, Jest, RTL',
-		link: 'https://react-calculator-tiltedveggie.vercel.app/'
+		link: 'https://react-calculator-innerlize.vercel.app/'
 	},
 
 	{
 		thumbnail: 'Ocean.jpg',
 		name: 'Ocean',
 		tools: 'HTML, CSS, JavaScript',
-		link: 'https://tiltedveggie.github.io/Ocean/'
+		link: 'https://innerlize.github.io/Ocean/'
 	}
 ];
 
