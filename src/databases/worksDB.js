@@ -33,7 +33,7 @@ const works = [
 		tools: 'HTML, SASS, JavaScript, Git, Figma, Adobe CC',
 		description:
 			'In this project I was responsible for developing a personal page for the Registered Nurse Practitioner Eliana Moura, a recognized worker from our city.',
-		link: 'https://tiltedveggie.github.io/Eliana-Moura/'
+		link: 'https://innerlize.github.io/Eliana-Moura/'
 	}
 ];
 
