@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alan-Aguilar/static/css/main.7f01487b.css",
-    "main.js": "/Alan-Aguilar/static/js/main.084c2924.js",
+    "main.js": "/Alan-Aguilar/static/js/main.ef4114e3.js",
     "static/media/inner-team.jpg": "/Alan-Aguilar/static/media/inner-team.601eb121699bed0d1731.jpg",
     "static/media/Lector.jpg": "/Alan-Aguilar/static/media/Lector.30cfe8f93c40fb746109.jpg",
     "static/media/Movies-Details.jpg": "/Alan-Aguilar/static/media/Movies-Details.c01973cc851d4adb22ea.jpg",
@@ -50,10 +50,10 @@
     "static/media/figma.svg": "/Alan-Aguilar/static/media/figma.2c2c9d7ff067a3272fbc.svg",
     "static/media/emmet.svg": "/Alan-Aguilar/static/media/emmet.2df0f6e056da76f9b126.svg",
     "main.7f01487b.css.map": "/Alan-Aguilar/static/css/main.7f01487b.css.map",
-    "main.084c2924.js.map": "/Alan-Aguilar/static/js/main.084c2924.js.map"
+    "main.ef4114e3.js.map": "/Alan-Aguilar/static/js/main.ef4114e3.js.map"
   },
   "entrypoints": [
     "static/css/main.7f01487b.css",
-    "static/js/main.084c2924.js"
+    "static/js/main.ef4114e3.js"
   ]
 }
